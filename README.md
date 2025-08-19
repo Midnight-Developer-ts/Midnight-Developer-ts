@@ -40,8 +40,16 @@
 <br>
 
 ### 🌟 Fun Fact                    
-I code best with sweet tea + music, and I like to call myself a ✨ “A digital architect from the darker side of the web.”
+I code best with sweet tea + music, and I like to call myself a ✨ “digital architect from the darker side of the web.”
 <br>
+<br>
+
+## 💼 Portfolio
+Here are some of my projects:
+
+- [Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+
+- **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills.
 <br>
 
 ### 📫 Connect With Me
