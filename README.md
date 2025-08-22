@@ -54,7 +54,9 @@ Here are some of my projects:
 
 ### 📫 Connect With Me
 - Email: **midnightdev.ts@gmail.com**
-- Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
 - GitHub: [@Midnight-Developer-ts](https://github.com/Midnight-Developer-ts)
+- LinkedIn: [Midnight Developer](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
+- Facebook: [Midnight Developer](https://www.facebook.com/profile.php?id=61579864044456)
 - Instagram: [@midnightdeveloper](https://www.instagram.com/midnightdeveloper)
 - Threads: [@midnightdeveloper](https://www.threads.com/@midnightdeveloper)
+- Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)- 
