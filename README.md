@@ -59,4 +59,4 @@ Here are some of my projects:
 - Facebook: [Midnight Developer](https://www.facebook.com/profile.php?id=61579864044456)
 - Instagram: [@midnightdeveloper](https://www.instagram.com/midnightdeveloper)
 - Threads: [@midnightdeveloper](https://www.threads.com/@midnightdeveloper)
-- Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)- 
+- Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
