@@ -2,10 +2,9 @@
 <tr>
 <td valign="top" width="60%">
 
-<h1 align="center" style="color:#ff1414;">##Tiffany Schuman | Midnight Developer</h1> 
+##Tiffany Schuman | Midnight Developer
 
-<h2 align="center" style="color:#ff1414;">**🌙 Web Developer (Frontend → Full Stack in progress)**</h2>
-<br>
+**🌙 Web Developer (Frontend → Full Stack in progress)**
 <br>
 
 ### 📖 About Me
@@ -98,11 +97,13 @@ Here are some of my projects:
 ## 📫 Connect With Me
 I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out through any of the following channels.
 
-- Email: **[midnightdev.ts@gmail.com](mailto:midnightdev.ts@gmail.com)**
-- GitHub: [@Midnight-Developer-ts](https://github.com/Midnight-Developer-ts)
-- LinkedIn: [Midnight Developer](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
-- Links: [Linktree](https://linktr.ee/midnightdeveloper)
-- Social: [Facebook](https://www.facebook.com/profile.php?id=61579864044456) | [Instagram](https://www.instagram.com/midnightdeveloper) | [Threads](https://www.threads.com/@midnightdeveloper)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/Midnight-Developer-ts)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/midnightdeveloper)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FF1414&logoOnly=true)](https://www.facebook.com/profile.php?id=61579864044456)
+[![Linktree](https://img.shields.io/badge/-Linktree-000000?style=for-the-badge&logo=linktree&logoColor=FF1414&logoOnly=true)](https://linktr.ee/midnightdeveloper)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@midnightdeveloper)
 <br>
 
 ### 📊 My Stats
