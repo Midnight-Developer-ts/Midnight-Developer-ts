@@ -1,7 +1,6 @@
 <table>
 <tr>
 <td valign="top" width="60%">
-[What I Do](#what-i-do) | [Tech Stack](#tech-stack) | [Certifications](#certifications) | [Portfolio](#portfolio)
 
 ## Tiffany Schuman | Midnight Developer
 
