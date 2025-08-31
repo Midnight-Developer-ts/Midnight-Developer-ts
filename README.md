@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="60%">
 
 ## Tiffany Schuman | Midnight Developer
 
@@ -91,7 +91,7 @@ Here are some of my projects:
 - Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
   
 </td>
-<td valign="top" width="70%">
+<td valign="top" width="40%">
 
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
