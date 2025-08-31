@@ -112,6 +112,9 @@ Here are some of my projects:
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
+  <a href="https://github.com/Midnight-Developer-ts?tab=followers">
+    <img src="https://img.shields.io/github/followers/Midnight-Developer-ts?label=Followers&style=for-the-badge&color=FF1414&logo=github" alt="Follower Count">
+  </a>
 </p>
 
 ---
