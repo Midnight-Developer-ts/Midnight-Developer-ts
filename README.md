@@ -2,28 +2,40 @@
 <tr>
 <td valign="top" width="60%">
 
-[What I Do](#what-i-do) | [Tech Stack](#tech-stack) | [Certifications](#certifications) | [Portfolio](#portfolio)
+---
 
-## Tiffany Schuman | Midnight Developer
+<p align="center">
+  <a href="#about-me">About</a> |
+  <a href="#what-i-do">What I Do</a> |
+  <a href="#tech-stack">Tech Stack</a> |
+  <a href="#tools--platforms">Tools & Platforms</a> |
+  <a href="#certifications">Certifications</a> |
+  <a href="#portfolio">Portfolio</a>
+</p>
 
-**🌙 Web Developer (Frontend → Full Stack in progress)**
+---
+
+<h2 align="center";>Tiffany Schuman | Midnight Developer</h2>
+
+<h4 align="center">🌙 Web Developer (Frontend → Full Stack in progress)</h4>
 <br>
 
-### 📖 About Me
-I’m a frontend web developer working towards full-stack mastery, I specialize in HTML, CSS, and JavaScript, combining creativity and technical skills to build modern, user-friendly websites. With over a year of hands-on experience, I help clients ranging from small businesses and bands to larger companies, grow their online presence by crafting fast, accessible, and visually appealing websites. Fueled by sweet tea and a love for problem-solving, I’m always exploring new technologies to improve my craft. 
-<br>
+<h2 align="center" id="about-me">📖 About Me</h2>
 
-I have experience with e-commerce and CMS platforms including Shopify, Wix, Ionos, Hostinger, eBay. I’ve managed product listings, I’ve optimized content for SEO, embedded custom code, and maintained websites with timely updates, bug fixes, and new features. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance coding solutions. Detail-oriented and resourceful, I’m committed to delivering results and taking on bigger challenges.
-<br>
+<p align="center">I’m a frontend web developer working towards full-stack mastery, I specialize in HTML, CSS, and JavaScript, combining creativity and technical skills to build modern, user-friendly websites. With over a year of hands-on experience, I help clients ranging from small businesses and bands to larger companies, grow their online presence by crafting fast, accessible, and visually appealing websites. Fueled by sweet tea and a love for problem-solving, I’m always exploring new technologies to improve my craft.</p>
 
-Explore my projects to see what I’ve been building!
-<br>
+<p align="center">I have experience with e-commerce and CMS platforms including Shopify, Wix, Ionos, Hostinger, eBay. I’ve managed product listings, I’ve optimized content for SEO, embedded custom code, and maintained websites with timely updates, bug fixes, and new features. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance coding solutions. Detail-oriented and resourceful, I’m committed to delivering results and taking on bigger challenges.</p>
 
-**Name:** Tiffany Schuman | **Age:** 32 | **Country:** United States of America
-<br>
-<br>
+<p align="center">Explore my projects to see what I’ve been building!</p>
 
-## 🌐 What I Do
+---
+
+<p align="center"><strong>Name:</strong> Tiffany Schuman | <strong>Age:</strong> 32 | <strong>Country:</strong> United States of America</p>
+
+---
+
+<h2 align="center" id="what-i-do">🌐 What I Do</h2>
+
 - Freelance & personal web projects
 - Frontend specialization, working toward full-stack certification
 - Creating responsive, mobile-friendly web experiences
@@ -35,14 +47,16 @@ Explore my projects to see what I’ve been building!
 - Ongoing Support & Maintenance
 <br>
 
-## 🛠️ Tech Stack
+<h2 align="center" id="tech-stack">🛠️ Tech Stack</h2>
 
 *Core Skills* <br>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 *Currently Learning* <br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -55,7 +69,8 @@ Explore my projects to see what I’ve been building!
 <br>
 <br>
 
-## 🧰 Tools & Platforms
+<h2 align="center" id="tools--platforms">🧰 Tools & Platforms</h2>
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -70,19 +85,20 @@ Explore my projects to see what I’ve been building!
 <br>
 <br>
 
-## 📜 Certifications
+<h2 align="center" id="certifications">📜 Certifications</h2>
+
 - [Responsive Web Design](https://www.freecodecamp.org/midnight-developer)
 - More certifications in progress, check back for updates.
 <br>
-<br>
 
-## 🤝 Open To
+<h2 align="center" id="open-to">🤝 Open To</h2>
+
 - Freelance front-end and web development projects
 - Full-time web development opportunities
 - Contributing to open-source projects & creative collaborations
 <br>
 
-## 💼 Portfolio
+<h2 align="center" id="portfolio">💼 Portfolio</h2>
 Here are some of my projects:
 
 - [Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
@@ -92,27 +108,45 @@ Here are some of my projects:
   
 </td>
 <td valign="top" width="40%">
+<br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
+</p>
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
+---
+<h3 align="center"> 📫 Connect With Me</h3>
+<p align="center">I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out, I’d love to hear from you!</p>
 
-## 📫 Connect With Me
-I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out through any of the following channels.
-
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com) <br>
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/Midnight-Developer-ts)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/midnightdeveloper)
+<br>
+---
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FF1414&logoOnly=true)](https://www.facebook.com/profile.php?id=61579864044456)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/midnightdeveloper)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FF1414&logoOnly=true)](https://bsky.app/profile/midnightdeveloper.bsky.social)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@midnightdeveloper) 
 [![Linktree](https://img.shields.io/badge/-Linktree-000000?style=for-the-badge&logo=linktree&logoColor=FF1414&logoOnly=true)](https://linktr.ee/midnightdeveloper)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@midnightdeveloper)
 <br>
 
-### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414)
-![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3)
+---
+
+<h3 align="center"> 📊 My Stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414" />
+</p>
+
+---
+
+<h3 align="center"> 🏆 Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3" />
+</p>
 
 </td>
 </tr>
