@@ -8,7 +8,7 @@
 <br>
 <br>
 
-💻 Skilled in HTML5, CSS3, and currently advancing my skills in JavaScript, Node.js, React, Python, and C#.
+💻 Skilled in HTML5, CSS3, Javascript and currently advancing my skills in Node.js, React, Python, C#, and more.
 
 🚀 Passionate about building responsive, accessible, and high-performance websites with creative layouts and clean design.
 
@@ -19,23 +19,27 @@
 ### 📖 About Me
 I’m a frontend web developer working towards full-stack mastery. I specialize in HTML, CSS, and JavaScript, with a strong focus on creating responsive and accessible websites. With 1+ years of hands-on experience, I deliver polished, user-friendly websites and I’m continuously expanding my skills to take on bigger challenges. Always exploring new technologies like React, Node.js, Python, C#, and more to improve my craft.
 <br>
+
 I bring creativity and technical skills together to build modern, responsive websites, fueled by sweet tea and a love for solving problems. I help small businesses build fast, accessible, and modern websites that attract customers and grow their brand. 
 <br>
-**Name:** Tiffany Schuman    **Age:** 32    **Country:** United States of America
+
+**Name:** Tiffany Schuman | **Age:** 32 | **Country:** United States of America
+<br>
 <br>
 
-
-
-### 🌐 What I Do
+## 🌐 What I Do
 - Freelance & personal web projects
 - Frontend specialization, working toward full-stack certification
+- Creating responsive, mobile-friendly web experiences
 - Exploring UI/UX, accessibility, and performance optimization
-- Branding & Visual Identity
-- SEO and Logo creation
+- SEO implementation & visual identity (logo design)
+- Version control & team collaboration
+- Testing & Debugging
+- Content Management / CMS
 - Ongoing Support & Maintenance
 <br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 *Core Skills* <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -55,7 +59,7 @@ I bring creativity and technical skills together to build modern, responsive web
 <br>
 <br>
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -66,34 +70,38 @@ I bring creativity and technical skills together to build modern, responsive web
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-FF6C37?style=for-the-badge&logo=hostinger&logoColor=white)
+<br>
+<br>
 
-### 📜 Certifications
+## 📜 Certifications
 - [Responsive Web Design](https://www.freecodecamp.org/midnight-developer)
 - More certifications in progress, check back for updates.
+<br>
+<br>
 
-### 🤝 Open To
-- Freelance front-end projects
-- Full-time developer roles
-- Open-source & creative collaborations
+## 🤝 Open To
+- Freelance front-end and web development projects
+- Full-time web development opportunities
+- Contributing to open-source projects & creative collaborations
 <br>
 
 ## 💼 Portfolio
 Here are some of my projects:
 
-<img src="[images-.gitkeep/band-client-website.jpeg](https://github.com/Midnight-Developer-ts/images-.gitkeep/blob/main/band-client-website.jpeg)" alt="Client Website Screenshot" width="600">
-*[Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.*
+- [Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
 - **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 <br>
 
-### 📫 Connect With Me
-- Email: **midnightdev.ts@gmail.com**
+## 📫 Connect With Me
+I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out through any of the following channels.
+
+- Email: **[midnightdev.ts@gmail.com](mailto:midnightdev.ts@gmail.com)**
 - GitHub: [@Midnight-Developer-ts](https://github.com/Midnight-Developer-ts)
 - LinkedIn: [Midnight Developer](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
-- Facebook: [Midnight Developer](https://www.facebook.com/profile.php?id=61579864044456)
-- Instagram: [@midnightdeveloper](https://www.instagram.com/midnightdeveloper)
-- Threads: [@midnightdeveloper](https://www.threads.com/@midnightdeveloper)
-- Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
+- Links: [Linktree](https://linktr.ee/midnightdeveloper)
+- Social: [Facebook](https://www.facebook.com/profile.php?id=61579864044456) | [Instagram](https://www.instagram.com/midnightdeveloper) | [Threads](https://www.threads.com/@midnightdeveloper)
+
   
 </td>
 <td valign="top" width="40%">
