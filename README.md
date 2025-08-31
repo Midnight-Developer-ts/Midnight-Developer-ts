@@ -56,12 +56,16 @@ I bring creativity and technical skills together to build modern, responsive web
 <br>
 
 ### 🧰 Tools & Platforms
-- Visual Studio Code
-- Github
-- Microsoft Office (Word, Excel, Powerpoint, outlook, teams)
-- AI programs to help me generate content, debug code, and experiment with creative ideas.
-- Wix
-- Hostinger
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-FF6C37?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### 📜 Certifications
 - [Responsive Web Design](https://www.freecodecamp.org/midnight-developer)
@@ -76,9 +80,10 @@ I bring creativity and technical skills together to build modern, responsive web
 ## 💼 Portfolio
 Here are some of my projects:
 
-- [Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+![Client Website Screenshot](images/band-client-website.jpeg)
+*[Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.*
 
-- **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills.
+- **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 <br>
 
 ### 📫 Connect With Me
