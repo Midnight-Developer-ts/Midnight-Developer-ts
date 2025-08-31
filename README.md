@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="60%">
 
-##Tiffany Schuman | Midnight Developer
+## Tiffany Schuman | Midnight Developer
 
 **🌙 Web Developer (Frontend → Full Stack in progress)**
 <br>
