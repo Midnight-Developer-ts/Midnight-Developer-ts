@@ -91,16 +91,18 @@ Here are some of my projects:
 - Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
   
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="50%">
 
 ### 📊 My Stats
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=blueviolet&style=flat)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=tokyonight&border_radius=5)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 ![Metrics](https://metrics.lecoq.io/Midnight-Developer-ts?template=classic&base.header=0&base.metadata=0&config.timezone=America%2FNew_York)
+
+### 💬 Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </td>
 </tr>
