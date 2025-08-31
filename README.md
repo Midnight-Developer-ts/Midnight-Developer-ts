@@ -80,7 +80,7 @@ I bring creativity and technical skills together to build modern, responsive web
 ## 💼 Portfolio
 Here are some of my projects:
 
-![Client Website Screenshot](images/band-client-website.jpeg)
+<img src="images-.gitkeep/band-client-website.jpeg" alt="Client Website Screenshot" width="600">
 *[Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.*
 
 - **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
