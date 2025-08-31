@@ -1,6 +1,7 @@
 <table>
 <tr>
 <td valign="top" width="60%">
+[What I Do](#what-i-do) | [Tech Stack](#tech-stack) | [Certifications](#certifications) | [Portfolio](#portfolio)
 
 ## Tiffany Schuman | Midnight Developer
 
@@ -97,7 +98,7 @@ Here are some of my projects:
 ## 📫 Connect With Me
 I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out through any of the following channels.
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com) <br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/Midnight-Developer-ts)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/midnightdeveloper)
@@ -111,9 +112,6 @@ I’m open to freelance projects, full-time opportunities, and creative collabor
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3)
-
-### 💬 Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </td>
 </tr>
