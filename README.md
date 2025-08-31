@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top" width="70%">
+
 ## Tiffany Schuman | Midnight Developer
 
 **🌙 Web Developer (Frontend → Full Stack in progress)**
@@ -12,10 +16,23 @@
 <br>
 <br>
 
+### 📖 About Me
+I’m a frontend web developer working towards full-stack mastery. I specialize in HTML, CSS, and JavaScript, with a strong focus on creating responsive and accessible websites. With 1+ years of hands-on experience, I deliver polished, user-friendly websites and I’m continuously expanding my skills to take on bigger challenges. Always exploring new technologies like React, Node.js, Python, C#, and more to improve my craft.
+<br>
+I bring creativity and technical skills together to build modern, responsive websites, fueled by sweet tea and a love for solving problems. I help small businesses build fast, accessible, and modern websites that attract customers and grow their brand. 
+<br>
+**Name:** Tiffany Schuman    **Age:** 32    **Country:** United States of America
+<br>
+
+
+
 ### 🌐 What I Do
 - Freelance & personal web projects
 - Frontend specialization, working toward full-stack certification
 - Exploring UI/UX, accessibility, and performance optimization
+- Branding & Visual Identity
+- SEO and Logo creation
+- Ongoing Support & Maintenance
 <br>
 
 ### 🛠️ Tech Stack
@@ -23,6 +40,7 @@
 *Core Skills* <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 *Currently Learning* <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -30,18 +48,29 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 <br>
 <br>
+
+### 🧰 Tools & Platforms
+- Visual Studio Code
+- Github
+- Microsoft Office (Word, Excel, Powerpoint, outlook, teams)
+- AI programs to help me generate content, debug code, and experiment with creative ideas.
+- Wix
+- Hostinger
+
+### 📜 Certifications
+- [Responsive Web Design](https://www.freecodecamp.org/midnight-developer)
+- More certifications in progress, check back for updates.
 
 ### 🤝 Open To
-- Collaboration on open-source & creative projects
-- Freelance opportunities
+- Freelance front-end projects
 - Full-time developer roles
-<br>
-
-### 🌟 Fun Fact                    
-I code best with sweet tea + music, and I like to call myself a ✨ “digital architect from the darker side of the web.”
-<br>
+- Open-source & creative collaborations
 <br>
 
 ## 💼 Portfolio
@@ -60,3 +89,19 @@ Here are some of my projects:
 - Instagram: [@midnightdeveloper](https://www.instagram.com/midnightdeveloper)
 - Threads: [@midnightdeveloper](https://www.threads.com/@midnightdeveloper)
 - Linktree: [Midnight Developer](https://linktr.ee/midnightdeveloper)
+  
+</td>
+<td valign="top" width="30%">
+
+### 📊 My Stats
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=blueviolet&style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=tokyonight&border_radius=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Metrics](https://metrics.lecoq.io/Midnight-Developer-ts?template=classic&base.header=0&base.metadata=0&config.timezone=America%2FNew_York)
+
+</td>
+</tr>
+</table>
