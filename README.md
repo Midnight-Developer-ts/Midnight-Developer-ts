@@ -2,22 +2,20 @@
 <tr>
 <td valign="top" width="60%">
 
-## Tiffany Schuman | Midnight Developer
+<h1 align="center" style="color:#ff1414;">##Tiffany Schuman | Midnight Developer</h1> 
 
-**🌙 Web Developer (Frontend → Full Stack in progress)**
-<br>
-<br>
-
-💻 Skilled in HTML5, CSS3, Javascript and currently advancing my skills in Node.js, React, Python, C#, and more.
-
-🚀 Passionate about building responsive, accessible, and high-performance websites with creative layouts and clean design.
-
-🎨 I enjoy working on creative projects that challenge me to problem-solve and bring unique ideas to life.
+<h2 align="center" style="color:#ff1414;">**🌙 Web Developer (Frontend → Full Stack in progress)**</h2>
 <br>
 <br>
 
 ### 📖 About Me
-I’m a frontend web developer working towards full-stack mastery. I combine creativity and technical skills to build modern, user-friendly websites. With 1+ years of hands-on experience, I help small businesses grow by crafting fast, accessible, and visually appealing websites. I’m continuously expanding my skills to take on bigger challenges. Fueled by sweet tea and a love for problem-solving, I'm always exploring new technologies to improve my craft.
+I’m a frontend web developer working towards full-stack mastery, I specialize in HTML, CSS, and JavaScript, combining creativity and technical skills to build modern, user-friendly websites. With over a year of hands-on experience, I help clients ranging from small businesses and bands to larger companies, grow their online presence by crafting fast, accessible, and visually appealing websites. Fueled by sweet tea and a love for problem-solving, I’m always exploring new technologies to improve my craft. 
+<br>
+
+I have experience with e-commerce and CMS platforms including Shopify, Wix, Ionos, Hostinger, eBay. I’ve managed product listings, I’ve optimized content for SEO, embedded custom code, and maintained websites with timely updates, bug fixes, and new features. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance coding solutions. Detail-oriented and resourceful, I’m committed to delivering results and taking on bigger challenges.
+<br>
+
+Explore my projects to see what I’ve been building!
 <br>
 
 **Name:** Tiffany Schuman | **Age:** 32 | **Country:** United States of America
@@ -59,6 +57,7 @@ I’m a frontend web developer working towards full-stack mastery. I combine cre
 ## 🧰 Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
@@ -89,6 +88,12 @@ Here are some of my projects:
 
 - **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 <br>
+  
+</td>
+<td valign="top" width="40%">
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
 
 ## 📫 Connect With Me
 I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out through any of the following channels.
@@ -98,13 +103,7 @@ I’m open to freelance projects, full-time opportunities, and creative collabor
 - LinkedIn: [Midnight Developer](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
 - Links: [Linktree](https://linktr.ee/midnightdeveloper)
 - Social: [Facebook](https://www.facebook.com/profile.php?id=61579864044456) | [Instagram](https://www.instagram.com/midnightdeveloper) | [Threads](https://www.threads.com/@midnightdeveloper)
-
-  
-</td>
-<td valign="top" width="40%">
-
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
+<br>
 
 ### 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414)
