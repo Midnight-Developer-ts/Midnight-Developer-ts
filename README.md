@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="70%">
+<td valign="top" width="100%">
 
 ## Tiffany Schuman | Midnight Developer
 
@@ -94,16 +94,15 @@ Here are some of my projects:
 <td valign="top" width="70%">
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=tokyonight&border_radius=5)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-![Metrics](https://metrics.lecoq.io/Midnight-Developer-ts?template=classic&base.header=0&base.metadata=0&config.timezone=America%2FNew_York)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414)
+![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3)
 
-### 💬 Quote
+### 💬 Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </td>
