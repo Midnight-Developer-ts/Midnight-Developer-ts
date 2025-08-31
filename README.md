@@ -17,10 +17,7 @@
 <br>
 
 ### 📖 About Me
-I’m a frontend web developer working towards full-stack mastery. I specialize in HTML, CSS, and JavaScript, with a strong focus on creating responsive and accessible websites. With 1+ years of hands-on experience, I deliver polished, user-friendly websites and I’m continuously expanding my skills to take on bigger challenges. Always exploring new technologies like React, Node.js, Python, C#, and more to improve my craft.
-<br>
-
-I bring creativity and technical skills together to build modern, responsive websites, fueled by sweet tea and a love for solving problems. I help small businesses build fast, accessible, and modern websites that attract customers and grow their brand. 
+I’m a frontend web developer working towards full-stack mastery. I combine creativity and technical skills to build modern, user-friendly websites. With 1+ years of hands-on experience, I help small businesses grow by crafting fast, accessible, and visually appealing websites. I’m continuously expanding my skills to take on bigger challenges. Fueled by sweet tea and a love for problem-solving, I'm always exploring new technologies to improve my craft.
 <br>
 
 **Name:** Tiffany Schuman | **Age:** 32 | **Country:** United States of America
@@ -106,7 +103,7 @@ I’m open to freelance projects, full-time opportunities, and creative collabor
 </td>
 <td valign="top" width="40%">
 
-### Profile Views
+### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge)
 
 ### 📊 My Stats
