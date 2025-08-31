@@ -94,10 +94,10 @@ Here are some of my projects:
 <td valign="top" width="70%">
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=flat-square)
 
 ### 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=tokyonight&border_radius=5)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
