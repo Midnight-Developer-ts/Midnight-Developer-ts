@@ -65,7 +65,7 @@
 ---
 
 <details>
-  <summary>🎨 Design & Branding</summary>
+  <summary>🎨 <strong>Design & Branding</strong></summary>
   <br>
   
   - Designing logos, graphics, and visual identity systems. 
@@ -77,7 +77,7 @@
 ---
 
 <details>
-  <summary>📈 Optimization & SEO</summary>
+  <summary>📈 <strong>Optimization & SEO</strong></summary>
   <br>
 
   - SEO implementation using targeted keywords, Google Analytics, and AI tools. 
@@ -89,7 +89,7 @@
 ---
 
 <details>
-  <summary>🔧 Support & Maintenance</summary>
+  <summary>🔧 <strong>Support & Maintenance</strong></summary>
   <br>
 
   - Delivering weekly updates, bug fixes, and feature additions post-launch. 
@@ -100,7 +100,7 @@
 ---
 
 <details>
-  <summary>🚀 Client Results</summary>
+  <summary>🚀 <strong>Client Results</strong></summary>
   <br>
 
   - Boosting visibility and engagement through SEO + design strategies. 
@@ -163,7 +163,7 @@
 <h2 align="center" id="portfolio">💼 Portfolio</h2>
 Here are some of my projects:
 
-- [Client Website](https://houstonshadows.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+- [Client Website](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
 - **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 <br>
