@@ -187,7 +187,7 @@ Here are some of my projects:
 <h2 align="center" id="stats"> 📊 My Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414" />
   <img src="https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414" />
 </p>
