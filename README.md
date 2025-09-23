@@ -20,9 +20,14 @@
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
+  &nbsp;&nbsp;
   <a href="https://github.com/Midnight-Developer-ts?tab=followers">
     <img src="https://img.shields.io/github/followers/Midnight-Developer-ts?label=Followers&style=for-the-badge&color=FF1414&logo=github" alt="Follower Count">
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Midnight-Developer-ts?affiliations=OWNER&label=Stars&style=for-the-badge&color=FF1414" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF1414&label=Repos&query=public_repos&url=https://api.github.com/users/Midnight-Developer-ts&style=for-the-badge" />
 </p>
 
 <h2 align="center" id="about-me">📖 About Midnight Developer</h2>
@@ -155,9 +160,10 @@
 
 <h2 align="center" id="open-to">🤝 Open To</h2>
 
-- Freelance front-end and web development projects
-- Full-time web development opportunities
-- Contributing to open-source projects & creative collaborations
+- Freelance front-end web development projects
+- Full-time web development opportunities 
+- Contributing to open-source projects
+- Participating in collaborative or creative coding projects
 <br>
 
 <h2 align="center" id="portfolio">💼 Portfolio</h2>
