@@ -169,9 +169,37 @@
 <h2 align="center" id="portfolio">💼 Portfolio</h2>
 Here are some of my projects:
 
-- [Client Website](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+- [Temporary Portfolio Webpage](https://midnight-developer-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
+  
+- **Main Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 
-- **Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
+- [Band Client Website](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+
+<details>
+  <summary>💻 <strong>Projects</strong></summary>
+  <br>
+  
+---
+  1. 🛍️ [Product Landing Page Project](https://midnight-developer-ts.github.io/product-landing-page/) <br>
+  A modern product showcase layout built with HTML, CSS, and responsive design principles. Features sections for a product lineup, embedded video, email signup, and responsive layout. Designed to fulfill all FreeCodeCamp user stories with clean, accessible structure.
+---
+  2. 📚 [Technical Documentation Page Project](https://midnight-developer-ts.github.io/technical-documentation-page/) <br>
+    A structured documentation-style page demonstrating clean typography, smooth organized navigation, and responsive formatting. Built to highlight technical writing and page organization skills. Currently being refined for clarity and layout precision.
+---
+  3. 🕯️ [Tribute Page Project](https://midnight-developer-ts.github.io/tribute-page/) <br>
+    A tribute to a historical figure built for FreeCodeCamp’s Responsive Web Design certification. Designed with semantic HTML and simple yet elegant visual styling. Focuses on readability, alignment, and responsive design.
+---
+  4. 🧾 [Survey Form Project](https://midnight-developer-ts.github.io/survey-form/) <br>
+    An early form-based project demonstrating form structure, user input validation, mobile responsiveness, and visual consistency. One of my first builds, marking the foundation of my web development journey.
+---
+  5. 🔢 [Roman Numeral Converter Project](https://midnight-developer-ts.github.io/roman-numeral-converter/) <br>
+    A functional JavaScript-based utility that converts numbers into Roman numerals with built-in input validation and clean, user-friendly design.
+---
+  <p align="center">Check back for more updates I post projects quite often.</p>
+  
+---
+
+</details>
 <br>
 
 <h2 align="center" id="contact"> 📫 Connect With Me</h2>
