@@ -33,11 +33,12 @@
 <h2 align="center" id="about-me">📖 About Midnight Developer</h2>
 <h3 align="center">Who I Am Behind The Code</h3>
 
-<details>
-<p><summary align="center">Hey! I’m <strong>Tiffany Schuman</strong>, online and professionally, I go by <strong>Midnight Developer</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</summary></p>
+<p align="center">Hey! I’m <strong>Tiffany Schuman</strong>, online and professionally, I go by <strong>Midnight Developer</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
 
 <p align="center">My hands-on experience so far includes building and maintaining a band's website, as well as developing personal and class projects to practice and showcase my skills. While most of my work has been small-scale, I'm eager to collaborate with both small businesses and larger companies to deliver fast, accessible, and visually engaging websites.</p>
 
+<details align="center"><summary>View More</summary>
+<br>
 <p align="center">Fueled by sweet tea and a love for problem-solving, turning tricky problems into organized, functional code. I’m committed to delivering results that help clients grow their online presence, and I'm always exploring new tech to improve my skills, my craft, and the online visuals that capture an audience.</p>
 
 <p align="center">I have experience with <strong>e-commerce</strong> and <strong>CMS platforms</strong> including <strong>Shopify</strong>, <strong>Wix</strong>, <strong>Ionos</strong>, <strong>Hostinger</strong>, and <strong>eBay</strong>. I’ve also managed product listings, optimized content for SEO, embedded custom code, and maintained websites with timely updates, bug fixes, and new features as needed. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance my coding solutions.</p>
@@ -85,7 +86,7 @@
   <summary>📈 <strong>Optimization & SEO</strong></summary>
   <br>
 
-  - SEO implementation using targeted keywords, Google Analytics, and AI tools. 
+  - SEO implementation using targeted keywords, Google Trends, Google Analytics, and AI tools. 
   - Page speed optimization for better ranking and performance. 
   - Writing SEO-driven content to increase engagement and visibility. 
   - Integrating social media trends to boost online presence. 
@@ -117,13 +118,16 @@
 
 <h2 align="center" id="tech-stack">🛠️ Tech Stack</h2>
 
-*Core Skills* <br>
+#### 🧠 Core Skills <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-*Currently Learning* <br>
+---
+
+<details>
+<summary><strong>View currently learning</strong></summary> <br>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -133,22 +137,66 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+</details>
 <br>
 <br>
 
 <h2 align="center" id="tools--platforms">🧰 Tools & Platforms</h2>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-FF6C37?style=for-the-badge&logo=hostinger&logoColor=white)
-![Ionos](https://img.shields.io/badge/Ionos-0078D4?style=for-the-badge&logo=ionos&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-EA4335?style=for-the-badge&logo=google-analytics&logoColor=white)
+#### 🧠 Primary Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+
+---
+
+#### 🎨 Design & UX
+![Canva](https://img.shields.io/badge/-Canva-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=FF1414)
+
+---
+
+#### 💻 Platforms & AI
+![Hostinger](https://img.shields.io/badge/Hostinger-000000?style=for-the-badge&logo=hostinger&logoColor=FF1414)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=FF1414)
+
+---
+
+#### ⚙️ My Toolkit
+<details>
+<summary><strong>View full toolkit</strong></summary>
+
+### Hosting & Platforms
+- Ionos
+- Shopify
+- Wix
+
+### Collaboration & Project Management
+- Trello
+- Discord
+- Zoom
+- Google Meet
+
+### Cloud & Storage
+- Google Drive
+- OneDrive
+- Dropbox
+
+### AI & Automation
+- Claude
+- Copilot
+
+### Media & Content
+- Pixlr
+- DaVinci Resolve
+- Clipchamp
+- YouTube
+
+### Analytics & Research
+- Google Analytics
+- Google Trends
+
+</details>
 <br>
 <br>
 
@@ -176,7 +224,7 @@ Here are some of my projects:
 - [Band Client Website](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
 <details>
-  <summary>💻 <strong>Projects</strong></summary>
+  <summary>💻 <strong>View More Projects</strong></summary>
   <br>
   
 ---
@@ -208,6 +256,7 @@ Here are some of my projects:
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/Midnight-Developer-ts)
+[![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=upwork&logoColor=FF1414)](https://www.upwork.com/freelancers/~01ed46eaa1f076a1e0?mp_source=share)
 <br>
 ---
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@midnightdeveloper) 
