@@ -33,7 +33,7 @@
 <h2 align="center" id="about-me">📖 About Midnight Developer</h2>
 <h3 align="center">Who I Am Behind The Code</h3>
 
-<p align="center">Hey! I’m <strong>Tiffany Schuman</strong>, online and professionally, I go by <strong>Midnight Developer</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
+<p align="center">Hey! I’m <strong>Tiffany</strong>, online and professionally, I go by <strong>Midnight Developer</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
 
 <p align="center">My hands-on experience so far includes building and maintaining a band's website, as well as developing personal and class projects to practice and showcase my skills. While most of my work has been small-scale, I'm eager to collaborate with both small businesses and larger companies to deliver fast, accessible, and visually engaging websites.</p>
 
