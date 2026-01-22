@@ -41,7 +41,7 @@
 <br>
 <p align="center">Fueled by sweet tea and a love for problem-solving, turning tricky problems into organized, functional code. I’m committed to delivering results that help clients grow their online presence, and I'm always exploring new tech to improve my skills, my craft, and the online visuals that capture an audience.</p>
 
-<p align="center">I have experience with <strong>e-commerce</strong> and <strong>CMS platforms</strong> including <strong>Shopify</strong>, <strong>Wix</strong>, <strong>Ionos</strong>, <strong>Hostinger</strong>, and <strong>eBay</strong>. I’ve also managed product listings, optimized content for SEO, embedded custom code, and maintained websites with timely updates, bug fixes, and new features as needed. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance my coding solutions.</p>
+<p align="center">I have experience with <strong>e-commerce</strong> and <strong>CMS platforms</strong>. My background includes <strong>Shopify</strong>, <strong>Wix</strong>, <strong>Ionos</strong>, <strong>Hostinger</strong>, and <strong>eBay</strong>. Where I managed product listings, optimized SEO, embedded custom code, and maintained websites with updates, new features, and more. Beyond development, I design logos, write SEO-driven content, and leverage AI tools to streamline workflows and enhance my coding solutions.</p>
 
 <p align="center">Explore my projects to see what I’ve been building!</p>
 </details>
@@ -166,35 +166,46 @@
 <details>
 <summary><strong>View full toolkit</strong></summary>
 
+### Primary Tools
+- `VS Code`
+- `Git`
+- `GitHub`
+
+### Design & UX
+- `Canva`
+- `Figma`
+
 ### Hosting & Platforms
-- Ionos
-- Shopify
-- Wix
+- `Hostinger`
+- `Ionos`
+- `Shopify`
+- `Wix`
 
 ### Collaboration & Project Management
-- Trello
-- Discord
-- Zoom
-- Google Meet
+- `Trello`
+- `Discord`
+- `Zoom`
+- `Google Meet`
 
 ### Cloud & Storage
-- Google Drive
-- OneDrive
-- Dropbox
+- `Google Drive`
+- `OneDrive`
+- `Dropbox`
 
 ### AI & Automation
-- Claude
-- Copilot
+- `ChatGPT`
+- `Claude`
+- `Copilot`
 
 ### Media & Content
-- Pixlr
-- DaVinci Resolve
-- Clipchamp
-- YouTube
+- `Pixlr`
+- `DaVinci Resolve`
+- `Clipchamp`
+- `YouTube`
 
 ### Analytics & Research
-- Google Analytics
-- Google Trends
+- `Google Analytics`
+- `Google Trends`
 
 </details>
 <br>
@@ -202,7 +213,7 @@
 
 <h2 align="center" id="certifications">📜 Certifications</h2>
 
-- [Responsive Web Design](https://www.freecodecamp.org/midnight-developer)
+- [`Responsive Web Design`](https://www.freecodecamp.org/midnight-developer)
 - More certifications in progress, check back for updates.
 <br>
 
@@ -217,31 +228,37 @@
 <h2 align="center" id="portfolio">💼 Portfolio</h2>
 Here are some of my projects:
 
-- [Temporary Portfolio Webpage](https://midnight-developer-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
+- [`Temporary Portfolio`](https://midnight-developer-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
   
-- **Main Portfolio coming soon** – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
+- `**Main Portfolio coming soon**` – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 
-- [Band Client Website](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
+- [`Band Client Website`](https://intheshadowsband.com) – Weekly updates and maintenance of a live website using **HTML**, **CSS**, and **JavaScript**. Crafted layouts, implemented code edits, added embedded features, and customized the site via **Hostinger editor** for a polished, responsive design.
 
 <details>
   <summary>💻 <strong>View More Projects</strong></summary>
   <br>
   
 ---
-  1. 🛍️ [Product Landing Page Project](https://midnight-developer-ts.github.io/product-landing-page/) <br>
+  1. 🛍️ [`Vamp Bags Product Landing Page`](https://midnight-developer-ts.github.io/vamp-bags-product-landing-page/) <br>
   A modern product showcase layout built with HTML, CSS, and responsive design principles. Features sections for a product lineup, embedded video, email signup, and responsive layout. Designed to fulfill all FreeCodeCamp user stories with clean, accessible structure.
 ---
-  2. 📚 [Technical Documentation Page Project](https://midnight-developer-ts.github.io/technical-documentation-page/) <br>
+  2. 📚 [`Midnight Developer's Technical Documentation Page`](https://midnight-developer-ts.github.io/midnight-developers=technical-documentation-page/) <br>
     A structured documentation-style page demonstrating clean typography, smooth organized navigation, and responsive formatting. Built to highlight technical writing and page organization skills. Currently being refined for clarity and layout precision.
 ---
-  3. 🕯️ [Tribute Page Project](https://midnight-developer-ts.github.io/tribute-page/) <br>
+  3. 🕯️ [`Vlad Tepes Tribute Page`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/) <br>
     A tribute to a historical figure built for FreeCodeCamp’s Responsive Web Design certification. Designed with semantic HTML and simple yet elegant visual styling. Focuses on readability, alignment, and responsive design.
 ---
-  4. 🧾 [Survey Form Project](https://midnight-developer-ts.github.io/survey-form/) <br>
+  4. 🧾 [`Midnight Developer's Survey Form`](https://midnight-developer-ts.github.io/midnight-developer-survey-form/) <br>
     An early form-based project demonstrating form structure, user input validation, mobile responsiveness, and visual consistency. One of my first builds, marking the foundation of my web development journey.
 ---
-  5. 🔢 [Roman Numeral Converter Project](https://midnight-developer-ts.github.io/roman-numeral-converter/) <br>
+  5. 🔢 [`Midnight Developer's Roman Numeral Converter`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/) <br>
     A functional JavaScript-based utility that converts numbers into Roman numerals with built-in input validation and clean, user-friendly design.
+---
+  6. 🔢 [`Midnight Developer's Palindrome Checker`](https://midnight-developer-ts.github.io/midnight-developers-palindrome-checker/) <br>
+    A JavaScript-based utility with a functionality that checks if a word is a palindrome with built-in input validation and a user-friendly, responsive design.
+---
+  7. 🔢 [`Midnight Developer's Telephone Number Validator`](https://midnight-developer-ts.github.io/midnight-developers-telephone-number-validator/) <br>
+    A functional JavaScript-based utility that validates phone numbers with built-in input validation and a modern, visually unique, responsive design.
 ---
   <p align="center">Check back for more updates I post projects quite often.</p>
   
