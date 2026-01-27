@@ -14,26 +14,26 @@
 
 ---
 
-<h2 align="center";>Tiffany Schuman | Midnight Developer</h2>
+<h2 align="center";>Tiffany Schuman | Vynxcode</h2>
 
 <h4 align="center">🌙 Web Developer (Frontend → Full Stack in progress)</h4>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Midnight-Developer-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vynxcode-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
   &nbsp;&nbsp;
-  <a href="https://github.com/Midnight-Developer-ts?tab=followers">
+  <a href="https://github.com/vynxcode-ts?tab=followers">
     <img src="https://img.shields.io/github/followers/Midnight-Developer-ts?label=Followers&style=for-the-badge&color=FF1414&logo=github" alt="Follower Count">
   </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Midnight-Developer-ts?affiliations=OWNER&label=Stars&style=for-the-badge&color=FF1414" />
+  <img src="https://img.shields.io/github/stars/vynxcode-ts?affiliations=OWNER&label=Stars&style=for-the-badge&color=FF1414" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF1414&label=Repos&query=public_repos&url=https://api.github.com/users/Midnight-Developer-ts&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF1414&label=Repos&query=public_repos&url=https://api.github.com/users/vynxcode-ts&style=for-the-badge" />
 </p>
 
-<h2 align="center" id="about-me">📖 About Midnight Developer</h2>
+<h2 align="center" id="about-me">📖 About Vynxcode</h2>
 <h3 align="center">Who I Am Behind The Code</h3>
 
-<p align="center">Hey! I’m <strong>Tiffany</strong>, online and professionally, I go by <strong>Midnight Developer</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
+<p align="center">Hey! I’m <strong>Tiffany</strong>, online and professionally, I go by <strong>Vynxcode</strong>. I’m a <strong>front-end web developer</strong> and I'm working towards my <strong>full-stack certifications</strong>. I specialize in <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, combining creativity and technical skills together to build modern, unique, user-friendly websites.</p>
 
 <p align="center">My hands-on experience so far includes building and maintaining a band's website, as well as developing personal and class projects to practice and showcase my skills. While most of my work has been small-scale, I'm eager to collaborate with both small businesses and larger companies to deliver fast, accessible, and visually engaging websites.</p>
 
@@ -228,7 +228,7 @@
 <h2 align="center" id="portfolio">💼 Portfolio</h2>
 Here are some of my projects:
 
-- [`Temporary Portfolio`](https://midnight-developer-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
+- [`Temporary Portfolio`](https://vynxcode-ts.github.io/personal-portfolio-project/) - This is a simple portfolio project to showcase my skills and projects. My main portfolio is currently in progress. 
   
 - `**Main Portfolio coming soon**` – I’m organizing a collection of my projects and work samples to showcase my skills. Check back to view my finished portfolio.
 
@@ -239,25 +239,25 @@ Here are some of my projects:
   <br>
   
 ---
-  1. 🛍️ [`Vamp Bags Product Landing Page`](https://midnight-developer-ts.github.io/vamp-bags-product-landing-page/) <br>
+  1. 🛍️ [`Vamp Bags Product Landing Page`](https://vynxcode-ts.github.io/vamp-bags-product-landing-page/) <br>
   A modern product showcase layout built with HTML, CSS, and responsive design principles. Features sections for a product lineup, embedded video, email signup, and responsive layout. Designed to fulfill all FreeCodeCamp user stories with clean, accessible structure.
 ---
-  2. 📚 [`Midnight Developer's Technical Documentation Page`](https://midnight-developer-ts.github.io/midnight-developers=technical-documentation-page/) <br>
+  2. 📚 [`Midnight Developer's Technical Documentation Page`](https://vynxcode-ts.github.io/midnight-developers=technical-documentation-page/) <br>
     A structured documentation-style page demonstrating clean typography, smooth organized navigation, and responsive formatting. Built to highlight technical writing and page organization skills. Currently being refined for clarity and layout precision.
 ---
-  3. 🕯️ [`Vlad Tepes Tribute Page`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/) <br>
+  3. 🕯️ [`Vlad Tepes Tribute Page`](https://vynxcode-ts.github.io/vlad-tepes-tribute-page/) <br>
     A tribute to a historical figure built for FreeCodeCamp’s Responsive Web Design certification. Designed with semantic HTML and simple yet elegant visual styling. Focuses on readability, alignment, and responsive design.
 ---
-  4. 🧾 [`Midnight Developer's Survey Form`](https://midnight-developer-ts.github.io/midnight-developer-survey-form/) <br>
+  4. 🧾 [`Midnight Developer's Survey Form`](https://vynxcode-ts.github.io/midnight-developer-survey-form/) <br>
     An early form-based project demonstrating form structure, user input validation, mobile responsiveness, and visual consistency. One of my first builds, marking the foundation of my web development journey.
 ---
-  5. 🔢 [`Midnight Developer's Roman Numeral Converter`](https://midnight-developer-ts.github.io/midnight-developers-roman-numeral-converter/) <br>
+  5. 🔢 [`Midnight Developer's Roman Numeral Converter`](https://vynxcode-ts.github.io/midnight-developers-roman-numeral-converter/) <br>
     A functional JavaScript-based utility that converts numbers into Roman numerals with built-in input validation and clean, user-friendly design.
 ---
-  6. 🔢 [`Midnight Developer's Palindrome Checker`](https://midnight-developer-ts.github.io/midnight-developers-palindrome-checker/) <br>
+  6. 🔢 [`Midnight Developer's Palindrome Checker`](https://vynxcode-ts.github.io/midnight-developers-palindrome-checker/) <br>
     A JavaScript-based utility with a functionality that checks if a word is a palindrome with built-in input validation and a user-friendly, responsive design.
 ---
-  7. 🔢 [`Midnight Developer's Telephone Number Validator`](https://midnight-developer-ts.github.io/midnight-developers-telephone-number-validator/) <br>
+  7. 🔢 [`Midnight Developer's Telephone Number Validator`](https://vynxcode-ts.github.io/midnight-developers-telephone-number-validator/) <br>
     A functional JavaScript-based utility that validates phone numbers with built-in input validation and a modern, visually unique, responsive design.
 ---
   <p align="center">Check back for more updates I post projects quite often.</p>
@@ -270,32 +270,32 @@ Here are some of my projects:
 <h2 align="center" id="contact"> 📫 Connect With Me</h2>
 <p align="center">I’m open to freelance projects, full-time opportunities, and creative collaborations. Feel free to reach out, I’d love to hear from you!</p>
 
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:midnightdev.ts@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/in/tiffany-schuman-midnight-developer-086364263/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/Midnight-Developer-ts)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FF1414&logoOnly=true)](mailto:vynxcode@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1414&logoOnly=true)](https://www.linkedin.com/company/vynxcode/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FF1414&logoOnly=true)](https://github.com/vynxcode-ts)
 [![Upwork](https://img.shields.io/badge/-Upwork-000000?style=for-the-badge&logo=upwork&logoColor=FF1414)](https://www.upwork.com/freelancers/~01ed46eaa1f076a1e0?mp_source=share)
 <br>
 ---
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@midnightdeveloper) 
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=for-the-badge&logo=threads&logoColor=FF1414&logoOnly=true)](https://www.threads.com/@vynxcode) 
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=FF1414&logoOnly=true)](https://www.facebook.com/profile.php?id=61579864044456)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/midnightdeveloper)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FF1414&logoOnly=true)](https://bsky.app/profile/midnightdeveloper.bsky.social)
-[![Linktree](https://img.shields.io/badge/-Linktree-000000?style=for-the-badge&logo=linktree&logoColor=FF1414&logoOnly=true)](https://linktr.ee/midnightdeveloper)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1414&logoOnly=true)](https://www.instagram.com/vynxcode)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=FF1414&logoOnly=true)](https://bsky.app/profile/vynxcode.bsky.social)
+[![Linktree](https://img.shields.io/badge/-Linktree-000000?style=for-the-badge&logo=linktree&logoColor=FF1414&logoOnly=true)](https://linktr.ee/vynxcode)
 <br>
 <br>
 
 <h2 align="center" id="stats"> 📊 My Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Midnight-Developer-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Midnight-Developer-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midnight-Developer-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vynxcode-ts&theme=radical&border_radius=5&background=000000&stroke=FF1414&currStreakLabel=FF1414&currStreakNum=FF1414&sideNums=FF1414" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vynxcode-ts&show_icons=true&theme=radical&hide_border=false&bg_color=000000&title_color=FF1414&text_color=FF1414&icon_color=FF1414" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vynxcode-ts&layout=compact&theme=radical&bg_color=000000&title_color=FF1414&text_color=FF1414" />
 </p>
 <br>
 
 <h2 align="center" id="achievements"> 🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midnight-Developer-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vynxcode-ts&theme=radical&no-frame=false&no-bg=false&margin-w=4&background=000000&column=3" />
 </p>
 <br>
