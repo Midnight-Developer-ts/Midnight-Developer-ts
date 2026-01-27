@@ -16,7 +16,7 @@
 
 <h2 align="center";>Tiffany Schuman | Vynxcode</h2>
 
-<h4 align="center">🌙 Web Developer (Frontend → Full Stack in progress)</h4>
+<h4 align="center">Web Developer & Designer</h4>
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vynxcode-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
