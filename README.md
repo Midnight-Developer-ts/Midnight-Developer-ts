@@ -242,22 +242,22 @@ Here are some of my projects:
   1. 🛍️ [`Vamp Bags Product Landing Page`](https://vynxcode-ts.github.io/vamp-bags-product-landing-page/) <br>
   A modern product showcase layout built with HTML, CSS, and responsive design principles. Features sections for a product lineup, embedded video, email signup, and responsive layout. Designed to fulfill all FreeCodeCamp user stories with clean, accessible structure.
 ---
-  2. 📚 [`Midnight Developer's Technical Documentation Page`](https://vynxcode-ts.github.io/midnight-developers=technical-documentation-page/) <br>
+  2. 📚 [`Midnight Developer's Technical Documentation Page`](https://vynxcode-ts.github.io/vynxcodes-technical-documentation-page/) <br>
     A structured documentation-style page demonstrating clean typography, smooth organized navigation, and responsive formatting. Built to highlight technical writing and page organization skills. Currently being refined for clarity and layout precision.
 ---
   3. 🕯️ [`Vlad Tepes Tribute Page`](https://vynxcode-ts.github.io/vlad-tepes-tribute-page/) <br>
     A tribute to a historical figure built for FreeCodeCamp’s Responsive Web Design certification. Designed with semantic HTML and simple yet elegant visual styling. Focuses on readability, alignment, and responsive design.
 ---
-  4. 🧾 [`Midnight Developer's Survey Form`](https://vynxcode-ts.github.io/midnight-developer-survey-form/) <br>
+  4. 🧾 [`Midnight Developer's Survey Form`](https://vynxcode-ts.github.io/vynxcodes-survey-form/) <br>
     An early form-based project demonstrating form structure, user input validation, mobile responsiveness, and visual consistency. One of my first builds, marking the foundation of my web development journey.
 ---
-  5. 🔢 [`Midnight Developer's Roman Numeral Converter`](https://vynxcode-ts.github.io/midnight-developers-roman-numeral-converter/) <br>
+  5. 🔢 [`Midnight Developer's Roman Numeral Converter`](https://vynxcode-ts.github.io/vynxcodes-roman-numeral-converter/) <br>
     A functional JavaScript-based utility that converts numbers into Roman numerals with built-in input validation and clean, user-friendly design.
 ---
-  6. 🔢 [`Midnight Developer's Palindrome Checker`](https://vynxcode-ts.github.io/midnight-developers-palindrome-checker/) <br>
+  6. 🔢 [`Midnight Developer's Palindrome Checker`](https://vynxcode-ts.github.io/vynxcodes-palindrome-checker/) <br>
     A JavaScript-based utility with a functionality that checks if a word is a palindrome with built-in input validation and a user-friendly, responsive design.
 ---
-  7. 🔢 [`Midnight Developer's Telephone Number Validator`](https://vynxcode-ts.github.io/midnight-developers-telephone-number-validator/) <br>
+  7. 🔢 [`Midnight Developer's Telephone Number Validator`](https://vynxcode-ts.github.io/vynxcodes-telephone-number-validator/) <br>
     A functional JavaScript-based utility that validates phone numbers with built-in input validation and a modern, visually unique, responsive design.
 ---
   <p align="center">Check back for more updates I post projects quite often.</p>
