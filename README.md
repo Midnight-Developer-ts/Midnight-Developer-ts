@@ -22,7 +22,7 @@
   <img src="https://komarev.com/ghpvc/?username=vynxcode-ts&label=Profile%20Views&color=FF1414&style=for-the-badge" alt="Profile Views">
   &nbsp;&nbsp;
   <a href="https://github.com/vynxcode-ts?tab=followers">
-    <img src="https://img.shields.io/github/followers/Midnight-Developer-ts?label=Followers&style=for-the-badge&color=FF1414&logo=github" alt="Follower Count">
+    <img src="https://img.shields.io/github/followers/vynxcode-ts?label=Followers&style=for-the-badge&color=FF1414&logo=github" alt="Follower Count">
   </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/vynxcode-ts?affiliations=OWNER&label=Stars&style=for-the-badge&color=FF1414" />
